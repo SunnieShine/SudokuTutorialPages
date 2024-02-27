@@ -1,3 +1,7 @@
+---
+description: Welcome to Sudoku World!
+---
+
 # 初来乍到
 
 欢迎来到数独的世界！从今天开始，我们的数独教程就正式开始更新。
