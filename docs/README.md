@@ -10,7 +10,7 @@ description: Welcome to Sudoku World!
 
 不过这次，我打算把事情改造得更加不一样一点。我打算把它移动到可修改的云端。网址是 [t.sudoku-studio.wiki](https://t.sudoku-studio.wiki)。
 
-## 数独是什么
+## 数独是什么 <a href="#what-is-a-sudoku" id="what-is-a-sudoku"></a>
 
 数独是一个益智游戏，准确来说是填数类游戏。它仅要求玩家往单元格里填入数字 1-9 即可。如图所示：
 
@@ -22,7 +22,7 @@ description: Welcome to Sudoku World!
 
 也就是说，比如左上角的空格，因为横行里出现了 3、5、7，因此你不能往空格里填 3、5、7，因为这样填违背了规则要求。同理，竖列里有 2 和 8，因此同样空格里不能填入 2 和 8。怎么样，这个规则够简单吧。
 
-## 解的定义
+## 解的定义 <a href="#definition-of-solution" id="definition-of-solution"></a>
 
 像是这样的题，我们的目的是什么？我们需要完成整个题面（我们称之为**盘面（Grid）**）。
 
