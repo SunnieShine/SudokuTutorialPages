@@ -6,4 +6,4 @@
 
 ## 附录 <a href="#appendix" id="appendix"></a>
 
-* [术语词索引](appendix/shu-yu-suo-yin.md)
+* [术语词索引](appendix/terms.md)
